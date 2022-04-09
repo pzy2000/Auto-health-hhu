@@ -17,6 +17,7 @@
 ### Windows
 
 在一个合适的位置打开PTD.exe自解压程序
+
 cd到main.exe同目录下
 
 命令行中执行
