@@ -1,0 +1,1200 @@
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer makeBox
+信息: Make Box Files
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_0.png, cap_0, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_1.png, cap_1, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_2.png, cap_2, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_3.png, cap_3, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_4.png, cap_4, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_5.png, cap_5, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_6.png, cap_6, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_7.png, cap_7, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_8.png, cap_8, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_9.png, cap_9, batch.nochop, makebox]
+四月 09, 2022 10:17:46 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Run Tesseract for Training
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_0.png, cap_0, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_1.png, cap_1, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_2.png, cap_2, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_3.png, cap_3, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_4.png, cap_4, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_5.png, cap_5, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_6.png, cap_6, box.train]
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_7.png, cap_7, box.train]
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_8.png, cap_8, box.train]
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_9.png, cap_9, box.train]
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Compute the Character Set
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/unicharset_extractor, cap_0.box, cap_1.box, cap_2.box, cap_3.box, cap_4.box, cap_5.box, cap_6.box, cap_7.box, cap_8.box, cap_9.box]
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/set_unicharset_properties, -U, unicharset, -O, unicharset, --script_dir=C:\Users\pzy\OneDrive\code-refinery\interest\auto-health\cap]
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Shape Clustering
+四月 09, 2022 10:27:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/shapeclustering, -F, num.font_properties, -U, unicharset, cap_0.tr, cap_1.tr, cap_2.tr, cap_3.tr, cap_4.tr, cap_5.tr, cap_6.tr, cap_7.tr, cap_8.tr, cap_9.tr]
+四月 09, 2022 10:27:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = -1,073,741,819
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Run Tesseract for Training
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_0.png, cap_0, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_1.png, cap_1, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_2.png, cap_2, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_3.png, cap_3, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_4.png, cap_4, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_5.png, cap_5, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_6.png, cap_6, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_7.png, cap_7, box.train]
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:05 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_8.png, cap_8, box.train]
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/tesseract, cap_9.png, cap_9, box.train]
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Compute the Character Set
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/unicharset_extractor, cap_0.box, cap_1.box, cap_2.box, cap_3.box, cap_4.box, cap_5.box, cap_6.box, cap_7.box, cap_8.box, cap_9.box]
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/set_unicharset_properties, -U, unicharset, -O, unicharset, --script_dir=C:\Users\pzy\OneDrive\code-refinery\interest\auto-health\cap]
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Shape Clustering
+四月 09, 2022 10:29:06 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [D:\tesseract/shapeclustering, -F, num.font_properties, -U, unicharset, cap_0.tr, cap_1.tr, cap_2.tr, cap_3.tr, cap_4.tr, cap_5.tr, cap_6.tr, cap_7.tr, cap_8.tr, cap_9.tr]
+四月 09, 2022 10:29:07 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = -1,073,741,819
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer makeBox
+信息: Make Box Files
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_0.png, cap_0, batch.nochop, makebox]
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_1.png, cap_1, batch.nochop, makebox]
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:08 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_2.png, cap_2, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_3.png, cap_3, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_4.png, cap_4, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_5.png, cap_5, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_6.png, cap_6, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_7.png, cap_7, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_8.png, cap_8, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_9.png, cap_9, batch.nochop, makebox]
+四月 09, 2022 10:35:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:19 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Run Tesseract for Training
+四月 09, 2022 10:37:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_0.png, cap_0, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_1.png, cap_1, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_2.png, cap_2, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_3.png, cap_3, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_4.png, cap_4, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_5.png, cap_5, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_6.png, cap_6, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_7.png, cap_7, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_8.png, cap_8, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_9.png, cap_9, box.train]
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Compute the Character Set
+四月 09, 2022 10:37:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/unicharset_extractor, cap_0.box, cap_1.box, cap_2.box, cap_3.box, cap_4.box, cap_5.box, cap_6.box, cap_7.box, cap_8.box, cap_9.box]
+四月 09, 2022 10:37:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/set_unicharset_properties, -U, unicharset, -O, unicharset, --script_dir=C:\Users\pzy\OneDrive\code-refinery\interest\auto-health\cap]
+四月 09, 2022 10:37:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:21 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Shape Clustering
+四月 09, 2022 10:37:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/shapeclustering, -F, num.font_properties, -U, unicharset, cap_0.tr, cap_1.tr, cap_2.tr, cap_3.tr, cap_4.tr, cap_5.tr, cap_6.tr, cap_7.tr, cap_8.tr, cap_9.tr]
+四月 09, 2022 10:37:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:22 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: MF Training
+四月 09, 2022 10:37:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/mftraining, -F, num.font_properties, -U, unicharset, -O, num.unicharset, cap_0.tr, cap_1.tr, cap_2.tr, cap_3.tr, cap_4.tr, cap_5.tr, cap_6.tr, cap_7.tr, cap_8.tr, cap_9.tr]
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: CN Training
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/cntraining, cap_0.tr, cap_1.tr, cap_2.tr, cap_3.tr, cap_4.tr, cap_5.tr, cap_6.tr, cap_7.tr, cap_8.tr, cap_9.tr]
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Rename files
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Dictionary Data
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/wordlist2dawg, num.frequent_words_list, num.freq-dawg, num.unicharset]
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/wordlist2dawg, num.words_list, num.word-dawg, num.unicharset]
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Combine Data Files
+四月 09, 2022 10:37:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/combine_tessdata, num.]
+四月 09, 2022 10:37:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:37:24 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Moving generated traineddata file to tessdata folder
+四月 09, 2022 10:37:24 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Training Completed
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer makeBox
+信息: Make Box Files
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_0.png, cap_0, batch.nochop, makebox]
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_1.png, cap_1, batch.nochop, makebox]
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_10.png, cap_10, batch.nochop, makebox]
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_11.png, cap_11, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_12.png, cap_12, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_13.png, cap_13, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_14.png, cap_14, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_15.png, cap_15, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_16.png, cap_16, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_17.png, cap_17, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_18.png, cap_18, batch.nochop, makebox]
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:20 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_19.png, cap_19, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_2.png, cap_2, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_20.png, cap_20, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_21.png, cap_21, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_22.png, cap_22, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_23.png, cap_23, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_24.png, cap_24, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_25.png, cap_25, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_26.png, cap_26, batch.nochop, makebox]
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:21 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_27.png, cap_27, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_28.png, cap_28, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_29.png, cap_29, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_3.png, cap_3, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_30.png, cap_30, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_31.png, cap_31, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_32.png, cap_32, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_33.png, cap_33, batch.nochop, makebox]
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:22 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_34.png, cap_34, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_35.png, cap_35, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_36.png, cap_36, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_37.png, cap_37, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_38.png, cap_38, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_39.png, cap_39, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_4.png, cap_4, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_40.png, cap_40, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_41.png, cap_41, batch.nochop, makebox]
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:23 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_42.png, cap_42, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_43.png, cap_43, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_44.png, cap_44, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_45.png, cap_45, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_46.png, cap_46, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_47.png, cap_47, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_48.png, cap_48, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_49.png, cap_49, batch.nochop, makebox]
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:24 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_5.png, cap_5, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_50.png, cap_50, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_51.png, cap_51, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_52.png, cap_52, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_53.png, cap_53, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_54.png, cap_54, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_55.png, cap_55, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_56.png, cap_56, batch.nochop, makebox]
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:25 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_57.png, cap_57, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_58.png, cap_58, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_59.png, cap_59, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_6.png, cap_6, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_60.png, cap_60, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_61.png, cap_61, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_62.png, cap_62, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_63.png, cap_63, batch.nochop, makebox]
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:26 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_64.png, cap_64, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_65.png, cap_65, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_66.png, cap_66, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_67.png, cap_67, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_68.png, cap_68, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_69.png, cap_69, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_7.png, cap_7, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_70.png, cap_70, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_71.png, cap_71, batch.nochop, makebox]
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:27 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_72.png, cap_72, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_73.png, cap_73, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_74.png, cap_74, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_75.png, cap_75, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_76.png, cap_76, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_77.png, cap_77, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_78.png, cap_78, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_79.png, cap_79, batch.nochop, makebox]
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:28 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_8.png, cap_8, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_80.png, cap_80, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_81.png, cap_81, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_82.png, cap_82, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_83.png, cap_83, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_84.png, cap_84, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_85.png, cap_85, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_86.png, cap_86, batch.nochop, makebox]
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:29 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_87.png, cap_87, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_88.png, cap_88, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_89.png, cap_89, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_9.png, cap_9, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_90.png, cap_90, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_91.png, cap_91, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_92.png, cap_92, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_93.png, cap_93, batch.nochop, makebox]
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:30 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_94.png, cap_94, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_95.png, cap_95, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_96.png, cap_96, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_97.png, cap_97, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_98.png, cap_98, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_99.png, cap_99, batch.nochop, makebox]
+四月 09, 2022 10:58:31 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:00:51 上午 net.sourceforge.tessboxeditor.GuiWithSpinner stateChanged
+警告: (y + height) is outside of Raster
+java.awt.image.RasterFormatException: (y + height) is outside of Raster
+	at sun.awt.image.ByteInterleavedRaster.createWritableChild(ByteInterleavedRaster.java:1248)
+	at java.awt.image.BufferedImage.getSubimage(BufferedImage.java:1202)
+	at net.sourceforge.tessboxeditor.Gui.getSubimage(Unknown Source)
+	at net.sourceforge.tessboxeditor.GuiWithSpinner.stateChanged(Unknown Source)
+	at net.sourceforge.tessboxeditor.Gui.jSpinnerYStateChanged(Unknown Source)
+	at net.sourceforge.tessboxeditor.Gui.access$1300(Unknown Source)
+	at net.sourceforge.tessboxeditor.Gui$24.stateChanged(Unknown Source)
+	at javax.swing.JSpinner.fireStateChanged(JSpinner.java:458)
+	at javax.swing.JSpinner$ModelListener.stateChanged(JSpinner.java:386)
+	at javax.swing.AbstractSpinnerModel.fireStateChanged(AbstractSpinnerModel.java:119)
+	at javax.swing.SpinnerNumberModel.setValue(SpinnerNumberModel.java:447)
+	at javax.swing.JSpinner.setValue(JSpinner.java:354)
+	at javax.swing.plaf.basic.BasicSpinnerUI$ArrowButtonHandler.actionPerformed(BasicSpinnerUI.java:654)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Run Tesseract for Training
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_0.png, cap_0, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_1.png, cap_1, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_10.png, cap_10, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_11.png, cap_11, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_12.png, cap_12, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_13.png, cap_13, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_14.png, cap_14, box.train]
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:09 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_15.png, cap_15, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_16.png, cap_16, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_17.png, cap_17, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_18.png, cap_18, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_19.png, cap_19, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_2.png, cap_2, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_20.png, cap_20, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_21.png, cap_21, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_22.png, cap_22, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_23.png, cap_23, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_24.png, cap_24, box.train]
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:10 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_25.png, cap_25, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_26.png, cap_26, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_27.png, cap_27, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_28.png, cap_28, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_29.png, cap_29, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_3.png, cap_3, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_30.png, cap_30, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_31.png, cap_31, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_32.png, cap_32, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_33.png, cap_33, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_34.png, cap_34, box.train]
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:11 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_35.png, cap_35, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_36.png, cap_36, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_37.png, cap_37, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_38.png, cap_38, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_39.png, cap_39, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_4.png, cap_4, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_40.png, cap_40, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_41.png, cap_41, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_42.png, cap_42, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_43.png, cap_43, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_44.png, cap_44, box.train]
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:12 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_45.png, cap_45, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_46.png, cap_46, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_47.png, cap_47, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_48.png, cap_48, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_49.png, cap_49, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_5.png, cap_5, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_50.png, cap_50, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_51.png, cap_51, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_52.png, cap_52, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_53.png, cap_53, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_54.png, cap_54, box.train]
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:13 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_55.png, cap_55, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_56.png, cap_56, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_57.png, cap_57, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_58.png, cap_58, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_59.png, cap_59, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_6.png, cap_6, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_60.png, cap_60, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_61.png, cap_61, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_62.png, cap_62, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_63.png, cap_63, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_64.png, cap_64, box.train]
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:14 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_65.png, cap_65, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_66.png, cap_66, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_67.png, cap_67, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_68.png, cap_68, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_69.png, cap_69, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_7.png, cap_7, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_70.png, cap_70, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_71.png, cap_71, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_72.png, cap_72, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_73.png, cap_73, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_74.png, cap_74, box.train]
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:15 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_75.png, cap_75, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_76.png, cap_76, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_77.png, cap_77, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_78.png, cap_78, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_79.png, cap_79, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_8.png, cap_8, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_80.png, cap_80, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_81.png, cap_81, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_82.png, cap_82, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_83.png, cap_83, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_84.png, cap_84, box.train]
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:16 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_85.png, cap_85, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_86.png, cap_86, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_87.png, cap_87, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_88.png, cap_88, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_89.png, cap_89, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_9.png, cap_9, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_90.png, cap_90, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_91.png, cap_91, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_92.png, cap_92, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_93.png, cap_93, box.train]
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:17 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_94.png, cap_94, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_95.png, cap_95, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_96.png, cap_96, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_97.png, cap_97, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_98.png, cap_98, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/tesseract, cap_99.png, cap_99, box.train]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer generateTraineddata
+信息: Compute the Character Set
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/unicharset_extractor, cap_0.box, cap_1.box, cap_10.box, cap_11.box, cap_12.box, cap_13.box, cap_14.box, cap_15.box, cap_16.box, cap_17.box, cap_18.box, cap_19.box, cap_2.box, cap_20.box, cap_21.box, cap_22.box, cap_23.box, cap_24.box, cap_25.box, cap_26.box, cap_27.box, cap_28.box, cap_29.box, cap_3.box, cap_30.box, cap_31.box, cap_32.box, cap_33.box, cap_34.box, cap_35.box, cap_36.box, cap_37.box, cap_38.box, cap_39.box, cap_4.box, cap_40.box, cap_41.box, cap_42.box, cap_43.box, cap_44.box, cap_45.box, cap_46.box, cap_47.box, cap_48.box, cap_49.box, cap_5.box, cap_50.box, cap_51.box, cap_52.box, cap_53.box, cap_54.box, cap_55.box, cap_56.box, cap_57.box, cap_58.box, cap_59.box, cap_6.box, cap_60.box, cap_61.box, cap_62.box, cap_63.box, cap_64.box, cap_65.box, cap_66.box, cap_67.box, cap_68.box, cap_69.box, cap_7.box, cap_70.box, cap_71.box, cap_72.box, cap_73.box, cap_74.box, cap_75.box, cap_76.box, cap_77.box, cap_78.box, cap_79.box, cap_8.box, cap_80.box, cap_81.box, cap_82.box, cap_83.box, cap_84.box, cap_85.box, cap_86.box, cap_87.box, cap_88.box, cap_89.box, cap_9.box, cap_90.box, cap_91.box, cap_92.box, cap_93.box, cap_94.box, cap_95.box, cap_96.box, cap_97.box, cap_98.box, cap_99.box]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/set_unicharset_properties, -U, unicharset, -O, unicharset, --script_dir=C:\Users\pzy\OneDrive\code-refinery\interest\auto-health\cap]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Shape Clustering
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/shapeclustering, -F, num.font_properties, -U, unicharset, cap_0.tr, cap_1.tr, cap_10.tr, cap_11.tr, cap_12.tr, cap_13.tr, cap_14.tr, cap_15.tr, cap_16.tr, cap_17.tr, cap_18.tr, cap_19.tr, cap_2.tr, cap_20.tr, cap_21.tr, cap_22.tr, cap_23.tr, cap_24.tr, cap_25.tr, cap_26.tr, cap_27.tr, cap_28.tr, cap_29.tr, cap_3.tr, cap_30.tr, cap_31.tr, cap_32.tr, cap_33.tr, cap_34.tr, cap_35.tr, cap_36.tr, cap_37.tr, cap_38.tr, cap_39.tr, cap_4.tr, cap_40.tr, cap_41.tr, cap_42.tr, cap_43.tr, cap_44.tr, cap_45.tr, cap_46.tr, cap_47.tr, cap_48.tr, cap_49.tr, cap_5.tr, cap_50.tr, cap_51.tr, cap_52.tr, cap_53.tr, cap_54.tr, cap_55.tr, cap_56.tr, cap_57.tr, cap_58.tr, cap_59.tr, cap_6.tr, cap_60.tr, cap_61.tr, cap_62.tr, cap_63.tr, cap_64.tr, cap_65.tr, cap_66.tr, cap_67.tr, cap_68.tr, cap_69.tr, cap_7.tr, cap_70.tr, cap_71.tr, cap_72.tr, cap_73.tr, cap_74.tr, cap_75.tr, cap_76.tr, cap_77.tr, cap_78.tr, cap_79.tr, cap_8.tr, cap_80.tr, cap_81.tr, cap_82.tr, cap_83.tr, cap_84.tr, cap_85.tr, cap_86.tr, cap_87.tr, cap_88.tr, cap_89.tr, cap_9.tr, cap_90.tr, cap_91.tr, cap_92.tr, cap_93.tr, cap_94.tr, cap_95.tr, cap_96.tr, cap_97.tr, cap_98.tr, cap_99.tr]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: MF Training
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/mftraining, -F, num.font_properties, -U, unicharset, -O, num.unicharset, cap_0.tr, cap_1.tr, cap_10.tr, cap_11.tr, cap_12.tr, cap_13.tr, cap_14.tr, cap_15.tr, cap_16.tr, cap_17.tr, cap_18.tr, cap_19.tr, cap_2.tr, cap_20.tr, cap_21.tr, cap_22.tr, cap_23.tr, cap_24.tr, cap_25.tr, cap_26.tr, cap_27.tr, cap_28.tr, cap_29.tr, cap_3.tr, cap_30.tr, cap_31.tr, cap_32.tr, cap_33.tr, cap_34.tr, cap_35.tr, cap_36.tr, cap_37.tr, cap_38.tr, cap_39.tr, cap_4.tr, cap_40.tr, cap_41.tr, cap_42.tr, cap_43.tr, cap_44.tr, cap_45.tr, cap_46.tr, cap_47.tr, cap_48.tr, cap_49.tr, cap_5.tr, cap_50.tr, cap_51.tr, cap_52.tr, cap_53.tr, cap_54.tr, cap_55.tr, cap_56.tr, cap_57.tr, cap_58.tr, cap_59.tr, cap_6.tr, cap_60.tr, cap_61.tr, cap_62.tr, cap_63.tr, cap_64.tr, cap_65.tr, cap_66.tr, cap_67.tr, cap_68.tr, cap_69.tr, cap_7.tr, cap_70.tr, cap_71.tr, cap_72.tr, cap_73.tr, cap_74.tr, cap_75.tr, cap_76.tr, cap_77.tr, cap_78.tr, cap_79.tr, cap_8.tr, cap_80.tr, cap_81.tr, cap_82.tr, cap_83.tr, cap_84.tr, cap_85.tr, cap_86.tr, cap_87.tr, cap_88.tr, cap_89.tr, cap_9.tr, cap_90.tr, cap_91.tr, cap_92.tr, cap_93.tr, cap_94.tr, cap_95.tr, cap_96.tr, cap_97.tr, cap_98.tr, cap_99.tr]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: CN Training
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/cntraining, cap_0.tr, cap_1.tr, cap_10.tr, cap_11.tr, cap_12.tr, cap_13.tr, cap_14.tr, cap_15.tr, cap_16.tr, cap_17.tr, cap_18.tr, cap_19.tr, cap_2.tr, cap_20.tr, cap_21.tr, cap_22.tr, cap_23.tr, cap_24.tr, cap_25.tr, cap_26.tr, cap_27.tr, cap_28.tr, cap_29.tr, cap_3.tr, cap_30.tr, cap_31.tr, cap_32.tr, cap_33.tr, cap_34.tr, cap_35.tr, cap_36.tr, cap_37.tr, cap_38.tr, cap_39.tr, cap_4.tr, cap_40.tr, cap_41.tr, cap_42.tr, cap_43.tr, cap_44.tr, cap_45.tr, cap_46.tr, cap_47.tr, cap_48.tr, cap_49.tr, cap_5.tr, cap_50.tr, cap_51.tr, cap_52.tr, cap_53.tr, cap_54.tr, cap_55.tr, cap_56.tr, cap_57.tr, cap_58.tr, cap_59.tr, cap_6.tr, cap_60.tr, cap_61.tr, cap_62.tr, cap_63.tr, cap_64.tr, cap_65.tr, cap_66.tr, cap_67.tr, cap_68.tr, cap_69.tr, cap_7.tr, cap_70.tr, cap_71.tr, cap_72.tr, cap_73.tr, cap_74.tr, cap_75.tr, cap_76.tr, cap_77.tr, cap_78.tr, cap_79.tr, cap_8.tr, cap_80.tr, cap_81.tr, cap_82.tr, cap_83.tr, cap_84.tr, cap_85.tr, cap_86.tr, cap_87.tr, cap_88.tr, cap_89.tr, cap_9.tr, cap_90.tr, cap_91.tr, cap_92.tr, cap_93.tr, cap_94.tr, cap_95.tr, cap_96.tr, cap_97.tr, cap_98.tr, cap_99.tr]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runShapeClustering
+信息: Rename files
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Dictionary Data
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/wordlist2dawg, num.frequent_words_list, num.freq-dawg, num.unicharset]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/wordlist2dawg, num.words_list, num.word-dawg, num.unicharset]
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Combine Data Files
+四月 09, 2022 11:42:18 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Command: [C:\Users\pzy\Downloads\jTessBoxEditor-2.2.0\jTessBoxEditor\tesseract-ocr/combine_tessdata, num.]
+四月 09, 2022 11:42:19 上午 net.sourceforge.tessboxeditor.TessTrainer runCommand
+信息: Exit value = 0
+四月 09, 2022 11:42:19 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Moving generated traineddata file to tessdata folder
+四月 09, 2022 11:42:19 上午 net.sourceforge.tessboxeditor.TessTrainer runDictionary
+信息: Training Completed
